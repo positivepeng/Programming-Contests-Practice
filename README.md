@@ -2,8 +2,9 @@
 Following http://web.stanford.edu/class/cs97si/
 
 ## 1.Assignment 1: Coding Exercise
-- [] [1000 A+B Problem(0)](http://poj.org/problem?id=1000) solved 
-- [] [1004 Financial Management(0)](http://poj.org/problem?id=1004)
+- [x] test
+- [ ] [1000 A+B Problem(0)](http://poj.org/problem?id=1000)
+- [ ] [1004 Financial Management(0)](http://poj.org/problem?id=1004)
 - [1003 Hangover(1)](http://poj.org/problem?id=1003)
 - [1007 DNA Sorting(2)](http://poj.org/problem?id=1007)
 - [2136 Vertical Histogram(2)](http://poj.org/problem?id=2136)
